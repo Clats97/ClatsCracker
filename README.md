@@ -1,5 +1,5 @@
 # ClatsCracker
-ClatsCracker 1.0 is a powerful Python-based password cracking tool designed to help security professionals, penetration testers, and researchers test and strengthen password security. Featuring support for multiple hashing algorithms, flexible attack methods, and dynamic resource management, ClatsCracker 1.0 provides a one-stop solution for evaluating password resilience under real-world conditions.
+ClatsCracker 1.01 is a powerful Python-based password cracking tool designed to help security professionals, penetration testers, and researchers test and strengthen password security. Featuring support for multiple hashing algorithms, flexible attack methods, hash auto detection, real time metrics (ETA & APS), logging session details, graceful interruption handling and dynamic resource management, ClatsCracker 1.01 provides a one-stop solution for evaluating password resilience under real-world conditions.
 
 **Key Highlights:**
 
@@ -15,7 +15,7 @@ ClatsCracker 1.0 is a powerful Python-based password cracking tool designed to h
 
 **Intended Audience:**
 
-ClatsCracker 1.0 is ideal for cybersecurity experts, IT auditors, digital forensics teams, and authorized penetration testers who need a reliable, comprehensive password cracking tool. Whether you’re verifying the strength of internal credentials, researching algorithm weaknesses, or recovering critical passwords, ClatsCracker is designed to streamline and enhance your workflow. 
+ClatsCracker 1.01 is ideal for cybersecurity experts, IT auditors, digital forensics teams, and authorized penetration testers who need a reliable, comprehensive password cracking tool. Whether you’re verifying the strength of internal credentials, researching algorithm weaknesses, or recovering critical passwords, ClatsCracker is designed to streamline and enhance your workflow. 
 
 Email skyline92x@pm.me if you have any questions about this tool. 
 
