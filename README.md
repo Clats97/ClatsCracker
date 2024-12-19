@@ -17,7 +17,7 @@ ClatsCracker is a powerful and capable Python-based password cracking tool desig
 
 Email **skyline92x@pm.me** if you have any questions about this tool. 
 
-Be sure to download and read the "README.pdf" file, so you understand how to use it properly.
+Be sure to download and read the "README.pdf" file, so you understand how to use it properly. Read the wiki, it contains helpful information regarding this tool.
 
 **HIGH PERFORMANCE DICTIONARY / WORDLIST AVAILABLE:** In recent months, Clats has been working on a dictionary / word-list file that contains common passwords and passwords in dictionaries with crack rates of 60% or higher, with duplicates removed, no syntax errors, optimizations and a high success rate. The dictionary / word-list has a crack rate slightly below 76% under test conditions (100 - shot) and is therefore highly successful. More work is still underway to provide ClatsCracker with more features and functions, as well as the dictionary / word list file. As the file is large (160 GB +), it cannot be uploaded to GitHub. The file contains approximately 19.5 billion passwords. If you would like to access this file, please send an e-mail to * skyline92x @ ppm.me / * and you will receive a single password-protected link to download via MEGA Hosting. Due to bandwidth restrictions, access to the file will be limited, and people who have not been given access for the first time will be given access after 30 days when bandwidth resets.
 
