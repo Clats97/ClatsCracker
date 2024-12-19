@@ -3,7 +3,7 @@ ClatsCracker is a powerful and capable Python-based password cracking tool desig
 
 **Key Highlights:**
 
-**Multi-Algorithm Support:** Crack MD5, SHA1, SHA256, SHA512, SHA3-256, Scrypt, Bcrypt, and Argon2id hashes, all within a single tool.
+**Multi-Algorithm Support:** Crack MD4, MD5, SHA1, SHA1_v2, SHA224, SHA256, SHA512, SHA3_224, SHA3_256, SHA3_384, SHA3_512, RIPEMD160, BLAKE2_224, CRC32, BCRYPT, ARGON2ID, and SCRYPT hashes, all within a single tool.
 
 **Flexible attack methods:** Choose between dictionary-based or brute-force attacks that enable both quick tests against known password lists and exhaustive searches for complex passwords.
 
