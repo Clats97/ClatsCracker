@@ -7,7 +7,7 @@ ClatsCracker is a powerful and capable Python-based password cracking tool desig
 
 **Flexible attack methods:** Choose between dictionary-based or brute-force attacks that enable both quick tests against known password lists and exhaustive searches for complex passwords.
 
-**User-Friendly Design:** A menu-driven interface, clear prompts and real-time progress reports make it accessible to users of all skill levels.
+**User-Friendly Design:** A menu-driven interface, clear prompts and progress reports make it accessible to users of all skill levels.
 
 **Scalable Performance:** Adjust the number of threads (1 to 1000) to use the capabilities of your system and optimize crack speed and efficiency. You can also choose between 3 presets, including low, medium and high use of computer resources.
 
