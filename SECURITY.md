@@ -1,6 +1,6 @@
 ## Supported Versions
 
-Versions 1.0 and 1.01 are supported versions. There are no depreciated or legacy versions.
+Version 1.03 is a supported version. There are no depreciated or legacy versions available for download. New releases are always in the works to bring you the best hash cracking toolkit available. 
 
 ## Security Policies for ClatsCracker
 
