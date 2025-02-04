@@ -1,7 +1,14 @@
 # ClatsCracker
+
+**CLATSCRACKER NOW HAS A GUI!!**
+
 ClatsCracker is a powerful and capable Python-based password cracking tool designed to help security professionals, penetration testers, and researchers test and strengthen password security. ClatsCracker supports multiple hashing algorithms, flexible attack methods, hash auto detection, real-time metrics (ETA & APS), session details, graceful interruption handling and dynamic resource management. ClatsCracker offers a one-stop solution to assess password resilience under real-world conditions.
 
+CLI Version:
 ![clatscracker](https://github.com/user-attachments/assets/0181c598-594e-43d7-93e9-3aa87aac7ff0)
+
+GUI Version:
+![Screenshot 2025-02-03 205845](https://github.com/user-attachments/assets/d6001808-ad23-4999-8512-a7fb5455e3d6)
 
 **Key Highlights:**
 
