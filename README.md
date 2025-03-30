@@ -12,7 +12,7 @@ GUI Version:
 
 **Key Highlights:**
 
-**Multi-Algorithm Support:** Crack MD4, MD5, SHA1, SHA1_v2, SHA224, SHA256, SHA512, SHA3_224, SHA3_256, SHA3_384, SHA3_512, RIPEMD160, BLAKE2_224, CRC32, BCRYPT, ARGON2ID, sha512_224, sha512_256, blake2b, blake2s, sha384, shake128, shake256, NTLM and SCRYPT hashes, all within a single tool.
+**Multi-Algorithm Support:** Crack MD4, MD5, SHA1, SHA1_v2, SHA224, SHA256, SHA512, SHA3_224, SHA3_256, SHA3_384, SHA3_512, RIPEMD160, BLAKE2_224, CRC32, BCRYPT, ARGON2ID, SHA512_224, SHA512_256, BLAKE2B, BLAKE2S, SHA384, SHAKEKE128, SHAKE256, NTLM and SCRYPT hashes, all within a single tool.
 
 **Flexible attack methods:** Choose between dictionary-based or brute-force attacks that enable both quick tests against known password lists and exhaustive searches for complex passwords.
 
