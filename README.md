@@ -30,5 +30,12 @@ Be sure to download and read the "README.pdf" file, so you understand how to use
 
 If anyone encounters errors using ClatsCracker, please submit an issue that details the problem, and provide a step by step outline on how to duplicate the error. If you can provide any log data, that would be helpful too. Issues will be resolved quickly, and would likely be corrected within 72 hours and released to this repository after testing.
 
-Enjoy!
+## License
+
+Distributed under the Apache 2.0 License. 
+
+**Author**
 Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
